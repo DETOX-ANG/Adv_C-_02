@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{1B38E7C5-5C86-45DC-8E60-CAB1E9267C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarDynamics", "VarDynamics\VarDynamics.csproj", "{2EC66CBB-A7FB-4482-AE28-85BF609145B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{085750FA-4183-4132-AA27-E75473175D0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1B38E7C5-5C86-45DC-8E60-CAB1E9267C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B38E7C5-5C86-45DC-8E60-CAB1E9267C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B38E7C5-5C86-45DC-8E60-CAB1E9267C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EC66CBB-A7FB-4482-AE28-85BF609145B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EC66CBB-A7FB-4482-AE28-85BF609145B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EC66CBB-A7FB-4482-AE28-85BF609145B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EC66CBB-A7FB-4482-AE28-85BF609145B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{085750FA-4183-4132-AA27-E75473175D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{085750FA-4183-4132-AA27-E75473175D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{085750FA-4183-4132-AA27-E75473175D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{085750FA-4183-4132-AA27-E75473175D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
